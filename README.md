@@ -1,3 +1,7 @@
+<strong>社交 || Social :</strong> https://xlog.cjh0613.com/others 
+
+<strong>打赏 || Donate :</strong> https://github.com/sponsors/cjh0613
+
 ![峡州仙士 GitHub 状态](https://c-stats.vercel.app/api?username=cjh0613&show_icons=true)
 
 <!--[English Blog：CJH-Bruce](https://en.cjh0613.com/index.html) | | [中文站：峡州仙士之页](https://cjh0613.com/index.html)
