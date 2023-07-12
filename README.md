@@ -1,4 +1,4 @@
-<strong>社交 || Social :</strong> https://xlog.cjh0613.com/others 
+<strong>社交 || Social :</strong> <a href="https://xlog.cjh0613.com/others" target="_blank" rel="noopener noreferrer">https://xlog.cjh0613.com/others</a>
 
 <strong>打赏 || Donate :</strong> https://github.com/sponsors/cjh0613
 
